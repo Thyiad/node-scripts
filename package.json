@@ -16,7 +16,7 @@
     "url": "https://github.com/Thyiad/thyiad-script/issues"
   },
   "homepage": "https://github.com/Thyiad/thyiad-script#readme",
-  "dependencies": {
+  "peerDependencies": {
     "chalk": "^4.1.0",
     "spinnies": "^0.5.1",
     "ssh2": "^0.8.9",
